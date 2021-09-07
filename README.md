@@ -1,2 +1,13 @@
-# MelonPlaylist
-Gets song titles and artist names from melon playlist URL and exports them to .txt file.
+# Melon Playlist
+## 멜론 플레이리스트 추출기   
+
+
+멜론 공개 플레이리스트 URl에서 곡 이름과 가수를 긁어서 txt 파일로 내보냄.   
+멜론 플레이리스트를 다른 음원사이트로 옮길때 유용함.   
+
+# 사용법
+1. 멜론 플레이리스트의 URL 링크를 얻는다.
+    (공유 기능 사용, 비공개 플레이리스트라면 공개로 전환 후 진행)
+2. 프로그램 실행 후 지침에 따라 링크를 입력한다.
+3. 생성된 txt 파일을 이용하여 [Soundiiz](https://soundiiz.com) 등의 서비스를 이용하여 플레이리스트를 옮긴다.
+
